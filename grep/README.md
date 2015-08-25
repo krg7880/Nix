@@ -1,5 +1,5 @@
-### Introduction ###
-Sometimes you need to search the FS to find a file by name. Drop the following function into your ~/.profile or ~/.bashrc file:
+### Fast File Search ###
+Sometimes you need to search the FS to find a file by name. Drop the following function into your ~/.profile or ~/.bashrc file, source it, and speed up your search. Note that you will need the (GNU Parallel)[http://www.gnu.org/software/parallel/] installed.
 
 ```bash
 # Find files faster on a large FS
